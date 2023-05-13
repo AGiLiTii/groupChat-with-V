@@ -1,8 +1,6 @@
-## Please note before working:
-- This repo must not contain any images/videos that are intended to be sent between clients, as this takes up lots of space. If files are to be transfered between clients, please save them locally onto the computer itself.
-- If you have already started working on the project before this repo was made available, you can just copy your current directory's work into this repo.
-
-Reminder that the demo date is on the 1 March 2023. Good luck and try to have fun!
+## Description
+A java program that allows the users to communicate with eachother either privately or in a groupchat.
+You can send voice notes and talk to eacher over Voice chat(type /call 1  to enter channel 1 (there are 5 voice channels so any number from 0-4))
 
 ## Makefile
 `make s` - compile and run the Server
